@@ -1,11 +1,6 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:subtitles="https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/id.vtt" BANDWIDTH=494100,RESOLUTION=352x240,NAME="240p" 
-https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/vp63207_V20200510195416/hlsc_e2931_3.m3u8
-#EXT-X-STREAM-INF:subtitles="https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/id.vtt" BANDWIDTH=684100,RESOLUTION=480x360,NAME="360p"
-https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/vp63207_V20200510195416/hlsc_e2931_4.m3u8
-#EXT-X-STREAM-INF:subtitles="https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/id.vtt" BANDWIDTH=894100,RESOLUTION=858x480,NAME="480p"
-https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/vp63207_V20200510195416/hlsc_e2931_5.m3u8
-#EXT-X-STREAM-INF:subtitles="https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/id.vtt" BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
-https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/vp63207_V20200510195416/hlsc_e2931_6.m3u8
+#EXTM3U size="big"
+
+#EXTINF:-1 type="video" description="FILMES" subtitles="https://drive.google.com/uc?id=1XOsVXpO9Z8GQHZvzlqDHQg-TvPi46mOY&export=download", Test
+#EXTBG: #076343
+http://url.filmbluray.id/ny7cjsk
 
