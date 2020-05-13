@@ -1,6 +1,6 @@
 #EXTM3U size="big"
 
-#EXTINF:-1 type="video" description="FILMES" subtitles="https://drive.google.com/uc?id=1XOsVXpO9Z8GQHZvzlqDHQg-TvPi46mOY&export=download", Test
+#EXTINF:-1 type="video" description="FILMES" subtitles="https://vuclip-eip2.akamaized.net/e467dd9296e2c69be579541e682c0b3d/id.vtt", Test
 #EXTBG: #076343
 http://url.filmbluray.id/ny7cjsk
 
