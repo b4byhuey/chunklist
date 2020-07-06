@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/ANTV.m3u8
+http://210.210.155.35/session/4002b006-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Bear Rom", BALI TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
@@ -54,10 +54,10 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/RTV.m3u8
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Bear Rom", SCTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/SCTV.m3u8
+http://210.210.155.35/session/34390234-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Bear Rom", TRANS7
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRANS7.m3u8
