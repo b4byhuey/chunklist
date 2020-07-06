@@ -9,7 +9,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
-http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", .IdKU
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
