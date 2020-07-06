@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
-http://210.210.155.35/session/4002b006-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Bear Rom", BALI TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
@@ -9,7 +9,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8
 ##https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
-http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", .IdKU
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
@@ -57,7 +57,7 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Bear Rom", SCTV
-http://210.210.155.35/session/34390234-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Bear Rom", TRANS7
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRANS7.m3u8
@@ -233,47 +233,20 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-
 #EXTINF:-1 tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="Bear Rom", NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Outdoor Channel
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/OUTDOOR.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sports Illustrated
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/SPORTILUST.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - My Recipes
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYRECIPES.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - Cooking Light
-https://livetvhooq.akamaized.net/afbbb0112e144da19be3d13c5d9b2f96/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830062~exp=9007200836571053~acl=/afbbb0112e144da19be3d13c5d9b2f96/*/profile_2/chunklist.m3u8*~hmac=2a4acaca18270af09a296f413292cdb53e130ed47defcbe531ffec30cf6e1a7e
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - Food & Wine
-https://livetvhooq.akamaized.net/8885db27fa464a4d9eb6098d120629b5/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830101~exp=9007200836571092~acl=/8885db27fa464a4d9eb6098d120629b5/*/profile_2/chunklist.m3u8*~hmac=fb87788a3257a54b67087ecc17a6c448c6891503df32a65bc70bffc3e37e908d
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - Food & Wine
-https://livetvhooq.akamaized.net/8885db27fa464a4d9eb6098d120629b5/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830101~exp=9007200836571092~acl=/8885db27fa464a4d9eb6098d120629b5/*/profile_2/chunklist.m3u8*~hmac=fb87788a3257a54b67087ecc17a6c448c6891503df32a65bc70bffc3e37e908d
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BuzzFeed - Nifty
-https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830148~exp=9007200836571139~acl=/1648324ea85b498897752a6385bb5e08/*/profile_2/chunklist.m3u8*~hmac=3dab87421cf72fab9fb6d30779a4454471132ab4841591850580f2a67ded51db
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?" group-title="Bear Rom", PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", B MUSIC SESSION
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BMUSIC.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", Clubbing TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/CLUBBING.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", B MUSIC CONCERT
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BCONCERT.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Clubbing TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/CLUBBING.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", DANGDUTZ
+##http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", MIX MUSIC
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b2352000.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", MIX MUSIC
+##http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b2352000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", MAXSTREAM MUSIC
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
@@ -281,14 +254,14 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", TRACE URBAN
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRACEURBAN.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", MTV LIVE
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", MTV LIVE
+##https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", BOX HITS
+##http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", California Music Channel
+##http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -296,32 +269,32 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/six-hd-png-sony-six-hd-300.png" group-title="Bear Rom", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+##EXTINF:-1 tvg-logo="http://pluspng.com/img-png/six-hd-png-sony-six-hd-300.png" group-title="Bear Rom", Sony Six
+##https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony Ten 1
+##https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony Ten 2
+##https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom",Sony Ten 3
+##https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sony ESPN
+##https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", 100 AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/chunklist_w858534003.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="Bear Rom", NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="Bear Rom", NBA HD
+##https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png" group-title="Bear Rom", Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png" group-title="Bear Rom", Golf HD
+##https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", Tennis HD
+##https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
