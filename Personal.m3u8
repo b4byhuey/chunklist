@@ -5,8 +5,8 @@ http://210.210.155.35/session/4002b006-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s07/
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Bear Rom", BALI TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/XSyUfVCy9gDV05X6jpEu.png" group-title="Bear Rom", GTV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
+##EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/XSyUfVCy9gDV05X6jpEu.png" group-title="Bear Rom", GTV
+##https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
 http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8
@@ -17,8 +17,8 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(9c829723-9b34-49fd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="Bear Rom",The Indonesia Channel
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Bear Rom", JAK TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAKTV.m3u8
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Bear Rom", JAK TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Bear Rom", JTV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
@@ -26,20 +26,20 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Bear Rom", METRO TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/inilahonline.com/wp-content/uploads/2018/03/INEWSTV.png" group-title="Bear Rom", iNews TV
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
+##EXTINF:-1 tvg-logo="https://i0.wp.com/inilahonline.com/wp-content/uploads/2018/03/INEWSTV.png" group-title="Bear Rom", iNews TV
+##https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Bear Rom", Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" group-title="Bear Rom", JAWAPOS TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAWAPOS.m3u8
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" group-title="Bear Rom", JAWAPOS TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAWAPOS.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/H9zFZsYZpSruTIIi4Y5w.png" group-title="Bear Rom", MNC TV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
+##EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/H9zFZsYZpSruTIIi4Y5w.png" group-title="Bear Rom", MNC TV
+##https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Bear Rom", MyTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYTV.m3u8
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Bear Rom", MyTV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Bear Rom", NET.
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -50,14 +50,14 @@ http://wowza60.indostreamserver.com:1935/pktv/live/chunklist_w1915614088.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", BALIKPAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png" group-title="Bear Rom", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
+##EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png" group-title="Bear Rom", RCTI
+##https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Bear Rom", SCTV
-http://210.210.155.35/session/34390234-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s03/02.m3u8
+http://210.210.155.35/session/34390234-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Bear Rom", TRANS7
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRANS7.m3u8
@@ -326,19 +326,19 @@ https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", UFC FIGHT PASS
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w750507084_b664000.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", UFC FIGHT PASS
+##http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w750507084_b664000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+##EXTINF:-1 tvg-logo="" group-title="Bear Rom", REAL MADRID TV
+##http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Bear Rom", JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Bear Rom", JGO
+##http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRn-z41Fm_FGxZmQooiidQVoKOWUEJHCyQUkqDVpcQPB2bmOqCu" group-title="Bear Rom", K Drama
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/KDRAMA.m3u8
+##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRn-z41Fm_FGxZmQooiidQVoKOWUEJHCyQUkqDVpcQPB2bmOqCu" group-title="Bear Rom", K Drama
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/KDRAMA.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Bear Rom", Zee Bioskop
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/ZEE.m3u8
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Bear Rom", Zee Bioskop
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/ZEE.m3u8
 
 
