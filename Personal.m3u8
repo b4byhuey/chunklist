@@ -8,20 +8,17 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/XSyUfVCy9gDV05X6jpEu.png" group-title="Bear Rom", GTV
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?-mp4a_64000=2-avc1_2000000=6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom",ID KU
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/INDOSIAR.m3u8
+http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="Bear Rom",The Indonesia Channel
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IndonesiaChannel.m3u8
+https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Bear Rom", JAK TV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Bear Rom", JTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JTV.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Bear Rom", METRO TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
@@ -108,13 +105,11 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/AREMA.m3u8
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="Bear Rom", USEE PHOTO
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/USEEPHOTO.m3u8
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="Bear Rom", USEE PRIME
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/USEEPRIME.m3u8
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", ID KU
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="Bear Rom", RUANG TRAMPIL
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/RTRAMPIL.m3u8
