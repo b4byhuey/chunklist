@@ -195,16 +195,16 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w858534003.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Bear Rom", RCTI
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Bear Rom", RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Bear Rom", GTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Bear Rom", GTV
 https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Bear Rom", MNCTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Bear Rom", MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Bear Rom", iNews
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Bear Rom", iNews
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
 ##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l799RKPlMRrP6F1gtnDKu-QiYPURx9SddA22Dw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", TATV SOLO
