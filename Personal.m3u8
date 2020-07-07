@@ -8,6 +8,9 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(3473945a-c61b-4c44
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkDwmWJ-OZU7iVK5t_lUoH2LBLYh843mqgJg&usqp=CAU" group-title="Bear Rom", LOMBOK TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", .IdKU
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
@@ -192,18 +195,17 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w858534003.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#####
-##EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Bear Rom", RCTI
-##https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/skrz1j8exe/rcti2_576p/chunks.m3u8
+EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Bear Rom", RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Bear Rom", GTV
-##https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8
+EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Bear Rom", GTV
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Bear Rom", MNCTV
-##https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/mnctv2_all/skrz1j8exe/mnctv2_576p/chunks.m3u8
+EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Bear Rom", MNCTV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Bear Rom", iNews
-##https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/inewstv_all/skrz1j8exe/inewstv_576p/chunks.m3u8
+EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Bear Rom", iNews
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
 ##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l799RKPlMRrP6F1gtnDKu-QiYPURx9SddA22Dw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", TATV SOLO
 ##https://raw.githubusercontent.com/b4byhuey/chunklist/master/TATV.m3u8
